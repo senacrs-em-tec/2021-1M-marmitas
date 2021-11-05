@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-right: 13px;
+    color: inherit;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 106px;
+    vertical-align: middle;
+}
+
+#laura{
+    background-color: rgb(212, 212, 212);
+    padding-top: 3px;
+ }
+h2 a{
+    color: black;
+}
+
+.card-text {
+    color: aquamarine;
+    font-weight: bold;
+}
+
+h2 a {
+    color: aquamarine;
+}
+
+h1{
+    color: black;
+}
+ .card{
+    background-color: transparent;
+    border: none;
+}
+
+
+/* carrosel */
+.carrosel-texto{
+    padding-left: 170px;
+    padding-right: 170px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+#carouselExampleIndicators{
+    background-color: aquamarine;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(seta.png);
+}
+
+.carousel-control-next-icon {
+    background-image: url(seta_2.png);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 52px;
+    height: 43px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 19%;
+}
+
+#cadastro{
+    height: 58px;
+    background-color: aquamarine;
+}
+
+#nossa {
+    color: aquamarine;
+    margin-top: 50px;
+}
+
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0;
+    margin-left: 480px;
+    max-width: 720px;
+}
+
+.col-sm {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    max-width: 216px;
+    flex-grow: 1;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.form-inline {
+    float: left;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 9px;
+}
+
+/* Victor Hugo*/
+
+dl, ol, ul {
+    padding-inline: 364px;
+    margin-top: -3px;
+    margin-bottom: 1rem;
+}
+
+#dropdown{
+    float: left;
+    background-color: white;
+    color: black;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+    position: relative;
+    padding-top: 10px;
+}
+
+body header h1{
+    width: 200px;
+    margin-left: 191px;
+}
+
+body header ul li a{
+    color: black;
+}
+
+.container {
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container {
+    max-width: 100%;
+}
+
+.navbar{
+    background-color: rgb(42, 235, 206);
+}
+
+.carousel {
+    position: relative;
+    margin-top: 55px;
+}
+
+#second, #ter{
+    padding-left: 27px;
+}
+
+#qua{
+    padding-left: 30px;
+}
+
+.justify-content-end {
+    padding-right: 162px;
+}
+
+#seco{
+    padding: 100px;
+}
+.fotos{
+    width: 510px;
+}
+#iddepoimentos{
+    padding-bottom: -5px;
+}
